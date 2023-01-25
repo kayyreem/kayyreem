@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Katleho Muhammad a Cloud Engineer & Entrepreneur from South Africa
+- 👋 Hi, I’m @Katleho Muhammad a Cloud Engineer & Innovative thinker from South Africa
 - 👀 I’m interested in UX/Mobile App development, Cloud Infrastructure, & Security
 - 🌱 I’m currently learning Flutter & React
 - 💞️ I’m open to learn & contribute on impactful projects 
