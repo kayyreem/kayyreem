@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Katleho Muhammad a Cloud Engineer & Innovative thinker from South Africa
-- 👀 I’m interested in UX/Mobile App development, Cloud Infrastructure, & Security
+- 👋 Hi, I’m @Katleho Muhammad a Cloud Engineer & Strategist from South Africa
+- 👀 I’m interested in UX/Mobile App development, Cloud Infrastructure & Security
 - 🌱 I’m currently learning Flutter & React
 - 💞️ I’m open to learn & contribute on impactful projects 
 - 📫 How to reach me either Twitter @kayyreem or feel free to be loud via mail to kayyreem.dev@gmail.com 
